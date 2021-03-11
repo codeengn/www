@@ -2,7 +2,7 @@
   name = "Conference"
   weight = 10
   identifier = "conference"
-  url = "/conference/17/"
+  url = "/conference/"
 
 [[main]]
   name = "About"
