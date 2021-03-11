@@ -17,9 +17,7 @@ toc: true
 
 ## History
 
-
-
 ### 2019 CodeEngn Conference 16
 
-[Detail](https://codeengn.com/conference/16)
-
+- [read more](conference/16/)
+- [slide](https://github.com/codeengn/codeengn-conference/tree/master/16)
