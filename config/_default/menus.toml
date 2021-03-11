@@ -12,22 +12,22 @@
 
 [[main]]
   name = "About"
-  url = "/docs/prologue/introduction/"
+  url = "/about/history/"
   weight = 10
 
 [[main]]
   name = "Conference"
-  url = "/docs/prologue/introduction/"
+  url = "/conference/history/"
   weight = 10
 
 [[main]]
   name = "Seminar"
-  url = "/docs/prologue/introduction/"
+  url = "/seminar/history/"
   weight = 10
 
 [[main]]
   name = "Archive"
-  url = "/docs/prologue/introduction/"
+  url = "/archive/"
   weight = 10
 
 [[main]]
