@@ -5,6 +5,11 @@ date: 2020-08-27T19:25:12+02:00
 lastmod: 2020-08-27T19:25:12+02:00
 draft: false
 images: []
+menu:
+  docs:
+    parent: "about"
+weight: 100
+toc: true
 ---
 
 ## About CodeEngn
