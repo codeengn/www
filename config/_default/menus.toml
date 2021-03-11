@@ -12,34 +12,33 @@
 
 [[main]]
   name = "About"
-  url = "/about/history/"
-  weight = 10
+  url = "/about/"
+  weight = 1
 
 [[main]]
   name = "Conference"
-  url = "/conference/history/"
-  weight = 10
+  url = "/conference/"
+  weight = 2
 
 [[main]]
   name = "Seminar"
-  url = "/seminar/history/"
-  weight = 10
+  url = "/seminar/"
+  weight = 3
 
 [[main]]
   name = "Archive"
   url = "/archive/"
-  weight = 10
+  weight = 4
 
 [[main]]
   name = "Challenges"
-  url = "/docs/prologue/introduction/"
-  weight = 10
-
+  url = "/challenges/"
+  weight = 5
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 20
+  weight = 6
 
 [[social]]
   name = "Twitter"
