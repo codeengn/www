@@ -1,7 +1,6 @@
 baseurl = "/"
 disableAliases = true
 disableHugoGeneratorInject = true
-isHTML = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
@@ -45,7 +44,7 @@ rel  = "sitemap"
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
-      linkify = false
+      linkify = true
     [markup.goldmark.parser]
       autoHeadingID = true
       autoHeadingIDType = "github"
