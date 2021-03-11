@@ -1,6 +1,7 @@
 baseurl = "/"
 disableAliases = true
 disableHugoGeneratorInject = true
+isHTML = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
