@@ -7,7 +7,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "뮤ㅐㅕㅅ"
+    parent: "about"
 weight: 100
 toc: true
 ---
