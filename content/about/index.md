@@ -5,6 +5,9 @@ date: 2020-08-27T19:25:12+02:00
 lastmod: 2020-08-27T19:25:12+02:00
 draft: false
 images: []
+menu:
+  docs:
+    parent: "about"
 weight: 100
 toc: true
 ---
@@ -23,27 +26,27 @@ toc: true
 
 #### Adviser
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
-> *이기택 (aka zizihacker)*, 코드엔진 자문
-> Hack the planet!!
-> <a href='https://fb.com/zizihacker' target='_blank'>Facebook: https://fb.com/zizihacker</a>
-> <a href='https://twitter.com/zizihacker' target='_blank'>Twitter: https://twitter.com/zizihacker</a>
+> *이기택 (aka zizihacker)*, 코드엔진 자문 
+> Hack the planet!! 
+> <a href='https://fb.com/zizihacker' target='_blank'>Facebook: https://fb.com/zizihacker</a> 
+> <a href='https://twitter.com/zizihacker' target='_blank'>Twitter: https://twitter.com/zizihacker</a> 
 
 #### Staff
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
-> *김민기*, 코드엔진 운영진
+> *김민기*, 코드엔진 운영진 
 > 소프트웨어보다 사람의 취약점 찾기를 좋아하고, 컴퓨터보다 고기에 더 관심이 많은 보안 컨설턴트
 
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
-> *김종기*, 코드엔진 운영진
-> 한때 세계 최고의 악성코드 분석가를 꿈꿨던 젊은이
+> *김종기*, 코드엔진 운영진 
+> 한때 세계 최고의 악성코드 분석가를 꿈꿨던 젊은이 
 > <a href='https://fb.com/j0n9ki' target='_blank'>Facebook: https://fb.com/j0n9ki</a>
 
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
-> *김가영*, 코드엔진 운영진
-> 한때 세계 최고의 악성코드 분석가를 꿈꿨던 젊은이
+> *김가영*, 코드엔진 운영진 
+> 한때 세계 최고의 악성코드 분석가를 꿈꿨던 젊은이 
 > <a href='https://fb.com/100008268432685' target='_blank'>Facebook: https://fb.com/100008268432685</a>
 
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
-> *박세한*, 코드엔진 운영진
-> 안녕하십니까 형님덜! 즐겁게 컴퓨타 합시다!
+> *박세한*, 코드엔진 운영진 
+> 안녕하십니까 형님덜! 즐겁게 컴퓨타 합시다! 
 > <a href='https://fb.com/combab0' target='_blank'>Facebook: https://fb.com/combab0</a>
