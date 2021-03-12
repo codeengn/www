@@ -15,14 +15,14 @@ toc: true
 
 
 ## Newsky
-![newsky](patrons_newsky.png)
+![newsky](../patrons_newsky.png)
 CodeEngn 영원하라!
 
 > <a href='https://www.facebook.com/jaehun.lee.9235' target='_blank'>Facebook: https://www.facebook.com/jaehun.lee.9235</a>
 
 
 ## 니키
-![boanproject](patrons_boanproject.png)
+![boanproject](../patrons_boanproject.png)
 
 > 보안프로젝트의 최고 파트너 CodeEngn!!!
 
