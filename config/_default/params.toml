@@ -26,7 +26,7 @@ schemaSection = "blog"
 siteLinksSearchBox = false
 
 ## Chrome Browser
-themeColor = "#fff"
+themeColor = "#DCDCDC"
 
 # Images
 quality = 85
