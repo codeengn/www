@@ -18,6 +18,9 @@ weight: 100
 
 #### Main Staff
 ![Main Staff](staff_ce.png)
+
+{{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
+
 > *코드엔진*, 코드엔진 운영자
 
 #### Adviser
