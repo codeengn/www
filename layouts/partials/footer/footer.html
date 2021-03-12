@@ -5,12 +5,7 @@
         <a href='/about/'>About</a> | <a href='/newsletter/'>Newsletter</a> | <a href='/contact/'>Contact</a>
       </div>
       <div class="col-lg-8 order-first order-lg-last text-lg-end">
-        <ul class="list-inline">
-          <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
-        </ul>
-        <ul class="list-inline">          
-          {{ range .Site.Menus.footer -}}
-            <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+        Powered by <a href='https://www.netlify.com/' target='_blank'>Netlify</a>, <a href='https://gohugo.io/' target='_blank'>Hugo</a>, and <a href='https://getdoks.org/' target='_blank'>Doks</a>
           {{ end -}}
         </ul>
       </div>
