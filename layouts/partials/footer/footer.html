@@ -8,6 +8,7 @@
       </div>
       <div class="col-lg-8 order-first order-lg-last text-lg-end">
         <ul class="list-inline">
+          About | Newsletter | Contact
           {{ range .Site.Menus.footer -}}
             <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
           {{ end -}}
