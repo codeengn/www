@@ -21,6 +21,7 @@ toc: true
 코드엔진을 만들어가는 운영진을 소개합니다.
 
 #### Main Staff
+<img src='https://github.com/codeengn/www/blob/6eff3c480f430a886feb4debb7687030127ea6ea/images/staff_ce.png'>
 - 코드엔진
 - 코드엔진 운영자
 
