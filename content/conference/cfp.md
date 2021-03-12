@@ -31,13 +31,12 @@ toc: true
 
 ## 발표자 혜택
 
- - CodeEngn Conference 평생 무료입장
- - CodeEngn Workshop & Closed Seminar 참석
+ - CodeEngn Conference 평생 무료
+ - CodeEngn Workshop & Closed Seminar 참석(코로나 이후)
  - FHD 화질의 발표 동영상 제공
- - 소정의 기념품
- - 코드엔진 컨퍼런스 티셔츠
+ - IT기기 기념품
  - 온라인 보안잡지 평생 구독권 제공
- - 연말 코드엔진 송년회
+ - 연말 코드엔진 송년회(코로나 이후)
 
 
 ## CFP 제출
