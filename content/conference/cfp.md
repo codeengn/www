@@ -27,5 +27,18 @@ toc: true
  - Advanced Hooking Techniques
  - More Things…
 
+
+
+## 발표자 혜택
+
+ - CodeEngn Conference 평생 무료입장
+ - CodeEngn Workshop & Closed Seminar 참석
+ - FHD 화질의 발표 동영상 제공
+ - 소정의 기념품
+ - 코드엔진 컨퍼런스 티셔츠
+ - 온라인 보안잡지 평생 구독권 제공
+ - 연말 코드엔진 송년회
+
+
 ## CFP 제출
 Call For Paper는 수시로 접수 받고 있으며 {{ "about/contact/" | absURL }} 메뉴에서 문의 해주시면 됩니다.
