@@ -4,7 +4,7 @@
 title = "CodeEngn [코드엔진]"
 titleSeparator = "-"
 titleAddition = "CodeEngn ReverseEngineering Conference"
-description = ""
+description = "코드엔진은 국내 리버스엔지니어링 정보공유를 위해 2007년 부터 리버스엔지니어링 컨퍼런스 및 세미나, 워크숍을 현업 실무자들과 함께 운영하고 있는 비영리 커뮤니티입니다."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
