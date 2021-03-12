@@ -40,7 +40,7 @@ toc: true
 
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
 > *김가영*, 코드엔진 운영진 
-> 한때 세계 최고의 악성코드 분석가를 꿈꿨던 젊은이 
+> 모바일 포렌식 전문가 
 > <a href='https://fb.com/100008268432685' target='_blank'>Facebook: https://fb.com/100008268432685</a>
 
 {{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
