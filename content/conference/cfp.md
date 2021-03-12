@@ -40,6 +40,6 @@ toc: true
 
 
 ## CFP 제출
-Call For Paper는 수시로 접수 받고 있으며 <a href="{{ "/contact/" | absURL }}">Contact</a> 메뉴에서 문의 해주시면 됩니다.
+Call For Paper는 수시로 접수 받고 있으며 <a href="/contact/">Contact</a> 메뉴에서 문의 해주시면 됩니다.
 
  
