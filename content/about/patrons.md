@@ -15,7 +15,7 @@ toc: true
 
 
 ## Newsky
-{{< img-simple src="patrons_newsky.png" alt="Square" class="border-0 rounded-circle" >}}
+{{< img src="patrons_newsky.png" alt="Square" class="border-0 rounded-circle" >}}
 
 CodeEngn 영원하라!
 
@@ -23,7 +23,7 @@ CodeEngn 영원하라!
 
 
 ## 니키
-{{< img-simple src="patrons_boanproject.png" alt="Square" class="border-0 rounded-circle" >}}
+{{< img src="patrons_boanproject.png" alt="Square" class="border-0 rounded-circle" >}}
 
 > 보안프로젝트의 최고 파트너 CodeEngn!!!
 
