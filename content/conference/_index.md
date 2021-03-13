@@ -13,57 +13,19 @@ weight: 100
 toc: true
 ---
 
-날짜 : 2010. 7. 3. SAT / PM 13:00 ~ 19:00
+날짜: 2021.07.05. ~ 07.
 
-장소 : 숭실대학교 형남공학관 115호
+온라인 등록비용 : 무료
 
 주최 & 주관 : CodeEngn.com [코드엔진] &nbsp;
 
-협찬 : 
-<a href='http://ack.or.kr' target='_blank'>숭실대학교 보안동아리 ACK</a>
+협찬 : <a href='https://www.nshc.net' target='_blank'>(주)NSHC</a> | <a href='https://kitri.re.kr' target='_blank'>한국정보기술연구원</a> | <a href='https://enki.co.kr' target='_blank'>ENKI</a></h2>
 
 <br />
 
 ### Download All Slides
 
-> Github: <a href='https://github.com/codeengn/codeengn-conference' target='_blank'>2007 - recent data</a>
+Github: <a href='https://github.com/codeengn/codeengn-conference' target='_blank'>2007 - recent data</a>
 
 <br />
 
-
-### Taint analysis for vulnerability discovery
-
-> <small>심준보</small>
-
-
-프로그램을 개발함에 있어서 취약점이란 언제나 존재하기 마련이다. 취약점을 찾거나 공략하는 일에 자신의 모든것을 투자하는 해커들에게 있어서, 프로그램 안에 취약점은 반드시 어딘가 “숨어”있는 것이다. 이런 숨어있는 취약점들을 찾기 위해 많은 해커들이 자신만의 노하우를 가지고 있다. 이 발표에서는 이런 수 많은 노하우들 중에 Taint Analysis를 통해 입력된 데이타들이 어떤 경로를 가지고 프로그램내에서 변조되는지에 대한 분석기법을 이야기한다. 기존의 Mutation 이나 Diffing 기반의 단순한 취약점 진단 기법들을 지나서 입력 데이터의 Life Cycle과 변조된 입력 데이터가 어떻게 프로그램의 영향을 미쳐 취약점을 유도하는지, 혹은 변조된 데이터를 기반으로 알려지지 않은 Zeroday 공격들을 탐지할 수 있는 기법들을 설명한다. 또한, Taint Analysis를 통해 효율적인 Fuzzer를 구성하는 방법에 대해 설명한다.
-
-
-<br />
-
-### Defcon 18 CTF 문제풀이
-
-> <small>김은수</small>
-
-
-2010년 5월 22~24일, 세계 최대의 해커들의 축제인 DEFCON 18의 CTF 예선이 열렸습니다. Kaist 보안동아리 GoN 팀으로 참여하면서 느낀 이번 DEFCON CTF 예선에 대한 전반적인 리뷰와 함께, 여러 문제 분야들 중 Binary l33tness, Pwtent pwnables 분야의 문제들의 풀이를 해보고자 한다. (Defcon 18 CTF 예선전 전체 529팀에서 6위로 본선진출)
-
-
-<br />
-
-### Art of Keylogging / 키보드보안과 관계없는 키로거들
-
-> <small>강병탁</small>
-
-
-각종 논문 데이터나 기타 연구자료들을 살펴보면 키보드보안의 한계점에 대해 지목하고 그것에 대한 보완 대책을 논의하고 있는 내용이 많다. 물론 그러한 학문적인 접근도 중요하지만, 실제 키로깅을 하고 있는 해커의 입장에서는 어떤 식으로 키입력과 계정을 가져가는지 해커의 접근 방법을 살펴보는 것도 필요하다. 일반적으로 해커들은 커널 레벨이나 하드웨어 지식 베이스에 입각한 난해한 기법보다는, 보다 간편하며 실용적인 방법을 통해 계정을 가져간다. 그리고 그 같은 행위는 현재 키보드보안의 커버 범위를 뛰어넘는 새로운 기법을 보여주는 경우가 대다수이다. 이런 상황을 배경으로 실제 기업에서 발생하고 있는 사례나, 유저의 감염케이스를 리버스 엔지니어링으로 살펴보는 시간을 마련했다. 바이너리 해킹의 예술을 맛볼 수 있는 Art of Keylogging 발표에서 키 입력 탈취에 대한 새로운 트렌드를 소개한다.
-
-
-<br />
-
-### Fighting against Botnet
-
-> <small>Max</small>
-
-
-사이버 전쟁의 대표적 공격 무기가 되어버린 봇넷은 네트워크가 점점 초고속화되고, 복잡해진 상황속에서 7.7 DDoS와 같은 DDoS 공격, 인터넷 계정이나 금융 정보등과 같은 개인 정보 유출 등이 봇넷을 통해 이루어지고 있는 상황이다. 이에 해당 주제 발표에서는 실제 사이버상에서 운영되고 있는 봇넷들을 분석해 보며, 그들의 추구하는 봇넷 비즈니스 모델을 찾아보려 한다. 또한, 봇넷의 설계, 운영, 관리, 대응에 관한 시연 그리고 봇넷들간의 전쟁에 대해 이야기하고자 한다.
