@@ -9,11 +9,11 @@ weight: 100
 toc: true
 ---
 
-## About CodeEngn
+### About CodeEngn
 
 **코드엔진**은 국내 리버스엔지니어링 정보공유를 위해 2007년 부터 리버스엔지니어링 컨퍼런스 및 세미나, 워크숍을 현업 실무자들과 함께 운영하고 있습니다. **리버스엔지니어링**이라는 하나의 큰 주제로 소프트웨어 보안에 대한 다양한 시각과 연구주제에 대한 정보공유를 추구하고 있으며, 상업적 이익 없이 작은 예산으로 운영하고 있어 큰 예산으로 운영하는 다른 컨퍼런스에 비해 여러 가지로 부족 할 수 있습니다.
 
-## Staff
+### Staff
 
 코드엔진을 만들어가는 운영진을 소개합니다.
 
@@ -57,3 +57,19 @@ toc: true
 > 안녕하십니까 형님덜! 즐겁게 컴퓨타 합시다! 
 > 
 > <a href='https://fb.com/combab0' target='_blank'>Facebook: https://fb.com/combab0</a>
+
+
+### Patrons
+
+코드엔진 컨퍼런스를 개인 후원 해주시는 분들을 소개합니다.
+
+##### Newsky
+
+> CodeEngn 영원하라! <br />
+> Facebook: <a href='https://www.facebook.com/jaehun.lee.9235' target='_blank'>https://www.facebook.com/jaehun.lee.9235</a>
+
+##### 니키
+
+> 보안프로젝트의 최고 파트너 CodeEngn!!! <br />
+> 최고의 컨퍼런스와 지식 공유의 공간이 되길 응원합니다.
+> Facebook: <a href='https://www.facebook.com/bokjiceo5' target='_blank'>https://www.facebook.com/bokjiceo</a>
