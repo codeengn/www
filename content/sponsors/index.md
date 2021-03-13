@@ -1,6 +1,7 @@
 ---
 title: Sponsors
-description: About CodeEngn
+description: 'About CodeEngn'
+lead: 코드엔진 컨퍼런스를 도와주고 있는 회사를 소개합니다.
 date: 2020-08-27T19:25:12+02:00
 lastmod: 2020-08-27T19:25:12+02:00
 draft: false
