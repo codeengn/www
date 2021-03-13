@@ -23,7 +23,7 @@ toc: true
 
 
 
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/conference/17/" role="button">read more</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/conference/17/" role="button">read more</a>
         
    
 
