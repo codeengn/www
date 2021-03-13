@@ -53,7 +53,7 @@ toc: true
 > 모바일 포렌식 전문가 <br />
 > <a href='https://fb.com/100008268432685' target='_blank'>Facebook: https://fb.com/100008268432685</a></small>
 
-<img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_sh.png width=125 height=125 alt=Square>
+<img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_sh.jpg width=125 height=125 alt=Square>
 
 > <small>*박세한*, 코드엔진 운영진 <br />
 > 안녕하십니까 형님덜! 즐겁게 컴퓨타 합시다! <br />
