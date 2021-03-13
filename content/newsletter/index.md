@@ -7,7 +7,6 @@ draft: false
 images: []
 ---
 
-{{< email user="hello" domain="getdoks.org" >}}
+> 코드엔진의 컨퍼런스, 세미나 등의 새로운 소식을 이메일로 보내드립니다!
 
-> CodeEngn.com [코드엔진]의 모든 문의 및 요청사항을 보내주세요.
-
+<a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/vMU2u9n2uMcy3go86" target="_blank" role="button">subscribe now</a>
