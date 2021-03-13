@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-<section class="section container-fluid mt-n2 pb-2">
+<section class="section container-fluid pb-2">
     <div class="col-lg-12 text-center">
       <h1 class="mt-0">2021 CodeEngn Conference 17</h1>
     </div>
