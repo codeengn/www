@@ -13,7 +13,6 @@ weight: 100
 toc: true
 ---
 
-<section class="section container-fluid">
   <div class="row justify-content-center">
     <div class="col-lg-12 text-center">
       <h1 class="mt-0">2021 CodeEngn Conference 17</h1>
@@ -28,4 +27,3 @@ toc: true
       <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "conference/17/" | absURL }}" role="button">read more</a>
     </div>
   </div>
-</section>
