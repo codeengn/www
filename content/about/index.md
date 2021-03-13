@@ -63,13 +63,13 @@ toc: true
 
 코드엔진 컨퍼런스를 개인 후원 해주시는 분들을 소개합니다.
 
-##### Newsky
+#### Newsky
 
-> CodeEngn 영원하라! <br />
-> Facebook: <a href='https://www.facebook.com/jaehun.lee.9235' target='_blank'>https://www.facebook.com/jaehun.lee.9235</a>
+> <small>CodeEngn 영원하라! <br />
+> Facebook: <a href='https://www.facebook.com/jaehun.lee.9235' target='_blank'>https://www.facebook.com/jaehun.lee.9235</a></small>
 
-##### 니키
+#### 니키
 
-> 보안프로젝트의 최고 파트너 CodeEngn!!! <br />
-> 최고의 컨퍼런스와 지식 공유의 공간이 되길 응원합니다.
-> Facebook: <a href='https://www.facebook.com/bokjiceo5' target='_blank'>https://www.facebook.com/bokjiceo</a>
+> <small>보안프로젝트의 최고 파트너 CodeEngn!!! <br />
+> 최고의 컨퍼런스와 지식 공유의 공간이 되길 응원합니다. <br />
+> Facebook: <a href='https://www.facebook.com/bokjiceo5' target='_blank'>https://www.facebook.com/bokjiceo</a></small>
