@@ -1,5 +1,5 @@
 ---
-title: 2010 CodeEngn Conference 04
+title: 2021 CodeEngn Conference 17
 description: 
 lead: 
 date: 2020-10-06T08:48:57+00:00
@@ -20,6 +20,8 @@ toc: true
 주최 & 주관 : CodeEngn.com [코드엔진] &nbsp;
 
 협찬 : <a href='https://www.nshc.net' target='_blank'>(주)NSHC</a> | <a href='https://kitri.re.kr' target='_blank'>한국정보기술연구원</a> | <a href='https://enki.co.kr' target='_blank'>ENKI</a></h2>
+
+<a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "conference/17/" | absURL }}" role="button">read more</a>
 
 <br />
 
