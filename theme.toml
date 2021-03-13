@@ -1,8 +1,8 @@
-name = "Doks"
+name = "CodeEngn [코드엔진]"
 license = "MIT"
 licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
-description = "Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-homepage = "https://getdoks.org/"
+description = "코드엔진은 국내 리버스엔지니어링 정보공유를 위해 2007년 부터 리버스엔지니어링 컨퍼런스 및 세미나, 워크숍을 현업 실무자들과 함께 운영하고 있는 비영리 커뮤니티입니다."
+homepage = "https://codeengn.com"
 tags = ["landing page", "documentation", "blog", "minimal", "modern", "customizable", "search", "dark mode", "bootstrap"]
 features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "dark mode"]
 min_version = "0.75.0"
