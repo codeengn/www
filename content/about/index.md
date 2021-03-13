@@ -18,11 +18,14 @@ toc: true
 코드엔진을 만들어가는 운영진을 소개합니다.
 
 #### Main Staff
-{{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
+<img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_ce.png width=125 height=125 alt=Square>
+    
 > *코드엔진*, 코드엔진 운영자
 
 #### Adviser
-{{< img-simple src="staff_ce.png" alt="Square" class="border-0 rounded-circle" >}}
+
+<img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_gt.png width=125 height=125 alt=Square>
+
 > *이기택 (aka zizihacker)*, 코드엔진 자문 
 > 
 > Hack the planet!! 
