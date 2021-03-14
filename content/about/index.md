@@ -9,7 +9,7 @@ weight: 100
 toc: true
 ---
 
-<img class="img-fluid lazyload blur-up border-0" data-sizes=auto src=codeengn_logo.png alt=Rectangle>
+<img class="img-fluid lazyload blur-up border-0" data-sizes=auto src=codeengn_logo_300.png alt=Rectangle>
 <br />
 
 
