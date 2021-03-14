@@ -45,19 +45,19 @@ toc: true
 
 > <small>*김종기*, 코드엔진 운영진 <br />
 > 한때 세계 최고의 악성코드 분석가를 꿈꿨던 젊은이 <br />
-> <a href='https://fb.com/j0n9ki' target='_blank'>Facebook: https://fb.com/j0n9ki</a></small>
+> Facebook: <a href='https://fb.com/j0n9ki' target='_blank'>https://fb.com/j0n9ki</a></small>
 
 <img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_gy.png width=125 height=125 alt=Square>
 
 > <small>*김가영*, 코드엔진 운영진 <br />
 > 모바일 포렌식 전문가 <br />
-> <a href='https://fb.com/100008268432685' target='_blank'>Facebook: https://fb.com/100008268432685</a></small>
+> Facebook: <a href='https://fb.com/100008268432685' target='_blank'>https://fb.com/100008268432685</a></small>
 
 <img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_sh.jpg width=125 height=125 alt=Square>
 
 > <small>*박세한*, 코드엔진 운영진 <br />
 > 안녕하십니까 형님덜! 즐겁게 컴퓨타 합시다! <br />
-> <a href='https://fb.com/combab0' target='_blank'>Facebook: https://fb.com/combab0</a></small>
+> Facebook: <a href='https://fb.com/combab0' target='_blank'>https://fb.com/combab0</a></small>
 
 <br />
 
@@ -68,10 +68,10 @@ toc: true
 #### Newsky
 
 > <small>CodeEngn 영원하라! <br />
-> Facebook: <a href='https://www.facebook.com/jaehun.lee.9235' target='_blank'>https://www.facebook.com/jaehun.lee.9235</a></small>
+> Facebook: <a href='https://fb.com/jaehun.lee.9235' target='_blank'>https://fb.com/jaehun.lee.9235</a></small>
 
 #### 니키
 
 > <small>보안프로젝트의 최고 파트너 CodeEngn!!! <br />
 > 최고의 컨퍼런스와 지식 공유의 공간이 되길 응원합니다. <br />
-> Facebook: <a href='https://www.facebook.com/bokjiceo5' target='_blank'>https://www.facebook.com/bokjiceo</a></small>
+> Facebook: <a href='https://fb.com/bokjiceo5' target='_blank'>https://fb.com/bokjiceo</a></small>
