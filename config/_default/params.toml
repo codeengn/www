@@ -7,11 +7,11 @@ titleAddition = "CodeEngn ReverseEngineering Conference"
 description = "코드엔진은 국내 리버스엔지니어링 정보공유를 위해 2007년 부터 리버스엔지니어링 컨퍼런스 및 세미나, 워크숍을 현업 실무자들과 함께 운영하고 있는 비영리 커뮤니티입니다."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+images = ["codeengn.png"]
+twitterSite = "codeengn"
+twitterCreator = "codeengn"
+facebookAuthor = "CodeEngnConference"
+facebookPublisher = "CodeEngnConference"
 ogLocale = "en_US"
 
 ## JSON-LD
