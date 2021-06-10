@@ -28,6 +28,6 @@ toc: true
 
 ## ENKI
 
- 엔키는 Intelligence기반 On-Demand 보안컨설팅 서비스를 주요 사업으로 하고 있는 맞춤형 보안 컨설팅 전문회사입니다
+ 엔키는 해커의 관점으로 보안 문제를 해결하는 사이버 보안 전문기업입니다. 악성코드 및 위협분석, 보안컨설팅, 보안R&D, 보안교육훈련 서비스를 제공합니다.
 
  > <small>ENKI: <a href='https://enki.co.kr' target='_blank'>https://enki.co.kr</a></small> <br />
