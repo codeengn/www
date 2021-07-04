@@ -19,6 +19,10 @@ toc: true
  > <small>NSHC: <a href='https://www.nshc.net' target='_blank'>https://www.nshc.net</a> <br />
  > NSHC Story Facebook: <a href='https://www.facebook.com/NSHC.Story' target='_blank'>https://www.facebook.com/NSHC.Story</a></small>
 
+ > NSHC-Introduction: <a href='/sponsors/NSHC-Introduction.pdf' target='_blank'>NSHC-Introduction.pdf</a></small>
+ > NSHC-DarkTracer: <a href='/sponsors/NSHC-DarkTracer.pdf' target='_blank'>NSHC-DarkTracer.pdf</a></small>
+
+
 ## 한국정보기술연구원
 
  한국정보기술연구원(KITRI)은 ‘정보보안 우수인재 양성을 통한 국가적 보안 난제 해소’라는 가치 아래, 2010년부터 다양한 정보보안 인력양성 사업을 진행해 왔으며, 지난 2012년부터 대한민국 최고의 차세대 보안리더를 양성하는 「Best of the Best(BoB)」 프로그램을 시행하고 있습니다.
@@ -26,8 +30,15 @@ toc: true
  > <small>KITRI: <a href='http://www.kitri.re.kr' target='_blank'>http://www.kitri.re.kr</a> <br />
  > KITRI BoB: <a href='https://www.kitribob.kr ' target='_blank'>https://www.kitribob.kr</a></small>
 
+ > BoB-Introduction: <a href='/sponsors/BoB-Introduction.pdf' target='_blank'>BoB-Introduction.pdf</a></small>
+
+
 ## ENKI
 
  엔키는 해커의 관점으로 보안 문제를 해결하는 사이버 보안 전문기업입니다. 악성코드 및 위협분석, 보안컨설팅, 보안R&D, 보안교육훈련 서비스를 제공합니다.
 
  > <small>ENKI: <a href='https://enki.co.kr' target='_blank'>https://enki.co.kr</a></small> <br />
+
+ > ENKI-Introduction: <a href='/sponsors/ENKI-Introduction.pdf' target='_blank'>ENKI-Introduction.pdf</a></small>
+ > ENKI-BugCamp: <a href='/sponsors/ENKI-BugCamp.pdf' target='_blank'>ENKI-BugCamp.pdf</a></small>
+
