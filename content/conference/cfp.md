@@ -33,8 +33,8 @@ toc: true
 
  - CodeEngn Workshop & Closed Seminar 참석(코로나 이후)
  - 연말 코드엔진 송년회(코로나 이후)
- - FHD 화질의 발표 동영상 제공
  - IT기기 기념품
+ - 연구 지원비
  - 온라인 보안잡지 평생 구독권 제공
 
 
