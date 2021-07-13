@@ -66,8 +66,10 @@ toc: true
 
 ### Patrons
 
-코드엔진 컨퍼런스를 개인 후원 해주신 분들을 소개합니다.
-
+코드엔진 컨퍼런스를 개인 후원 해주신 분들을 소개합니다. <br />
+개인 후원은 상시 받고 있으며, IT서적을 보내주시면 아래 목록에 추가해드리고 있습니다.
+> <a href='/contact/' target='_blank'>Contact</a></small>
+  
 #### Newsky
 
 > <small>CodeEngn 영원하라! <br />
