@@ -84,5 +84,5 @@ toc: true
 
 > <small>코드엔진 리버스엔지니어링의 세계에 오신 것을 환영합니다. <br />
 > 코드엔진에서 자동차 리버싱도 하겠지요? <br />
-> www: <a href='https://maxoverpro.org' target='_blank'>https://fb.com/bokjiceo</a> <br />
-> Facebook: <a href='https://fb.com/maxoverpro.jang' target='_blank'>https://fb.com/bokjiceo</a></small>
+> www: <a href='https://maxoverpro.org' target='_blank'>https://maxoverpro.org</a> <br />
+> Facebook: <a href='https://fb.com/maxoverpro.jang' target='_blank'>https://fb.com/maxoverpro.jang</a></small>
