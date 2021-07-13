@@ -27,7 +27,6 @@ toc: true
 <img class="img-simple border rounded p-1 img-fluid lazyload blur-up border-0 rounded-circle" src=staff_ce.png width=125 height=125 alt=Square>
     
 > <small>*코드엔진*, 코드엔진 운영자 <br />
-> Twitter: <a href='https://twitter.com/codeengn' target='_blank'>https://twitter.com/codeengn</a> </small>
 > 
 #### Adviser
 
