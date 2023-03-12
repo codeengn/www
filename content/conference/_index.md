@@ -1,5 +1,5 @@
 ---
-title: 2021 CodeEngn Conference 17
+title: 2023 CodeEngn Conference 19
 description: 
 lead: 
 date: 2020-10-06T08:48:57+00:00
@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-날짜: 2021.07.05. ~ 06.
+날짜: 2023. 7. 3.
 
 온라인 등록비용 : 무료
 
@@ -23,7 +23,7 @@ toc: true
 
 
 
-<a class="btn btn-primary btn-lg px-4 mb-2" href="/conference/17/" role="button">read more</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/conference/19/" role="button">read more</a>
         
    
 
